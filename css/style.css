@@ -1,0 +1,15 @@
+.header, .hero, .body, .bar, .footer{
+  padding: 10px 0;
+  background-color: rgb(247, 216, 237);
+  margin-bottom: 10px;
+  font-size: 25px;
+  color: azure;
+}
+.box{
+  min-height: 80px;
+  background-color: rgb(112, 236, 216);
+  margin-bottom: 5px;
+}
+.red {
+  background-color:red;
+}
